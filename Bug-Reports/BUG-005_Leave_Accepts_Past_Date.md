@@ -9,8 +9,6 @@
 | **Bug ID**         | BUG-005                                                            |
 | **Title**          | Leave application accepts past dates without validation error      |
 | **Module**         | Leave Management                                                   |
-| **Reported By**    | QA Intern                                                          |
-| **Date Reported**  | April 7, 2026                                                      |
 | **Severity**       | Major                                                              |
 | **Priority**       | High                                                               |
 | **Status**         | Open                                                               |
