@@ -9,8 +9,6 @@
 | **Bug ID**         | BUG-001                                                    |
 | **Title**          | Misleading error message on login with locked/invalid user |
 | **Module**         | Login / Authentication                                     |
-| **Reported By**    | QA Intern                                                  |
-| **Date Reported**  | April 6, 2026                                              |
 | **Severity**       | Major                                                      |
 | **Priority**       | High                                                       |
 | **Status**         | Open                                                       |
