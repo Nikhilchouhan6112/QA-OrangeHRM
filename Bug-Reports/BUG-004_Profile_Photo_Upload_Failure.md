@@ -9,8 +9,6 @@
 | **Bug ID**         | BUG-004                                                       |
 | **Title**          | Employee profile photo upload fails intermittently            |
 | **Module**         | Employee Management (PIM)                                     |
-| **Reported By**    | QA Intern                                                     |
-| **Date Reported**  | April 7, 2026                                                 |
 | **Severity**       | Minor                                                         |
 | **Priority**       | Medium                                                        |
 | **Status**         | Open                                                          |
