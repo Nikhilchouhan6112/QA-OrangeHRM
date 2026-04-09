@@ -9,8 +9,6 @@
 | **Bug ID**         | BUG-002                                                       |
 | **Title**          | No input validation on Employee First Name field (accepts numbers & special characters) |
 | **Module**         | Employee Management (PIM)                                     |
-| **Reported By**    | QA Intern                                                     |
-| **Date Reported**  | April 6, 2026                                                 |
 | **Severity**       | Major                                                         |
 | **Priority**       | High                                                          |
 | **Status**         | Open                                                          |
