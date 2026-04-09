@@ -9,8 +9,6 @@
 | **Bug ID**         | BUG-006                                                            |
 | **Title**          | Browser back button allows access to dashboard after logout        |
 | **Module**         | Login / Authentication                                             |
-| **Reported By**    | QA Intern                                                          |
-| **Date Reported**  | April 8, 2026                                                      |
 | **Severity**       | Major                                                              |
 | **Priority**       | High                                                               |
 | **Status**         | Open                                                               |
