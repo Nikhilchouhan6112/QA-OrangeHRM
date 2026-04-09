@@ -4,7 +4,7 @@ All notable changes to this QA project are documented here.
 
 ---
 
-## [1.0.0] — April 9, 2026
+## [1.0.0] 
 
 ### 🎉 Initial Release
 
