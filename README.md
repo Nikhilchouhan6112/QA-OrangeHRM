@@ -16,7 +16,6 @@ This repository contains a **manual QA testing project** for the **OrangeHRM** w
 - **Test Credentials:** Username: `Admin` | Password: `admin123`
 - **Testing Type:** Manual / Functional / UI Testing
 - **Tester:** Fresher QA Intern
-- **Project Duration:** April 2026
 
 ---
 
