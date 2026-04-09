@@ -2,8 +2,6 @@
 
 **Module:** Employee Management (PIM)
 **Application:** OrangeHRM Demo (https://opensource-demo.orangehrmlive.com/)
-**Prepared By:** QA Intern
-**Date:** April 2026
 **Total Test Cases:** 10
 
 ---
