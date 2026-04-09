@@ -1,8 +1,6 @@
 # Test Plan — OrangeHRM Web Application
 
 **Document Version:** 1.0  
-**Prepared By:** QA Intern  
-**Date:** April 2026  
 **Status:** Approved
 
 ---
