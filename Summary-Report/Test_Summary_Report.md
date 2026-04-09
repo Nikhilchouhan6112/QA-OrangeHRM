@@ -1,8 +1,6 @@
 # Test Summary Report — OrangeHRM Web Application
 
 **Project:** Manual QA Testing — OrangeHRM HR Management System
-**Prepared By:** QA Intern
-**Date:** April 9, 2026
 **Document Version:** 1.0
 **Status:** Final
 
