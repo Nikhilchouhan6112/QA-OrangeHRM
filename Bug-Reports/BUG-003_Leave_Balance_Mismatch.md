@@ -9,8 +9,6 @@
 | **Bug ID**         | BUG-003                                                       |
 | **Title**          | Leave balance does not update correctly after leave approval  |
 | **Module**         | Leave Management                                              |
-| **Reported By**    | QA Intern                                                     |
-| **Date Reported**  | April 7, 2026                                                 |
 | **Severity**       | Critical                                                      |
 | **Priority**       | High                                                          |
 | **Status**         | Open                                                          |
